@@ -1,3 +1,3 @@
 # FERB
 
-# #Makes reading git reposiories easier with AI
+## Makes reading git reposiories easier with AI
